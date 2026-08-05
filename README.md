@@ -12,3 +12,29 @@
 <img src="https://komarev.com/ghpvc/?username=kavyaramavath13-hash&style=for-the-badge&color=blueviolet"/>
 <img src="https://img.shields.io/github/followers/kavyaramavath13-hash?style=for-the-badge"/>
 </p>
+### 👩‍💻 About Me
+
+```java
+class Lily {
+
+    String role = "Computer Science Engineering Student";
+    String focus = "Aspiring Software Engineer";
+
+    String[] learning = {
+        "Java",
+        "Data Structures & Algorithms",
+        "Full Stack Development",
+        "Web Development",
+        "AI Tools"
+    };
+
+    String[] interests = {
+        "Building Real-World Projects",
+        "Problem Solving",
+        "Open Source",
+        "Continuous Learning"
+    };
+
+    String goal = "Build software that creates real-world impact.";
+}
+```
