@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:c800a1,100:ff6b6b&height=200&section=header&text=AKANKSHA%20BURSU&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Web%20Dev%20%7C%20AI%20%7C%20Mobile%20%7C%20Space%20Enthusiast&descAlignY=58&descColor=f0c6ff&animation=fadeIn" width="100%"/>
-
-<!--
 **kavyaramavath13-hash/kavyaramavath13-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
