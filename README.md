@@ -104,7 +104,7 @@ class Lily {
   </a>
 </p>
 <div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663874018653/pOHsYbQmaHBGTeVP.gif" alt="Footer Banner" width="100%" />
+  <img src="github-footer.gif" alt="Footer Banner" width="100%" />
     
 
   <b>Thanks for stopping by! Let's build something amazing together. 🚀</b>
