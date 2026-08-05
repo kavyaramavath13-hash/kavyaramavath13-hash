@@ -12,7 +12,8 @@
 <img src="https://komarev.com/ghpvc/?username=kavyaramavath13-hash&style=for-the-badge&color=blueviolet"/>
 <img src="https://img.shields.io/github/followers/kavyaramavath13-hash?style=for-the-badge"/>
 </p>
-### 👩‍💻 About Me
+ 
+ ##👩‍💻 About Me
 
 ```java
 class Lily {
@@ -38,59 +39,54 @@ class Lily {
     String goal = "Build software that creates real-world impact.";
 }
 ```
-## 🛠️ Tech Stack
+  <img align="right" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="400">
+</p>
+##💻 Tech Stack
 
+👨‍💻 Languages
 
-### 💻 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,dart,kotlin" />
 </p>
 
-### 🎨 Frontend Development
+### 🌐 Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,flutter" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🛠️ Tools & Design
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma" />
 </p>
 
-### 🤖 AI & Productivity
+### 🤖 AI Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=github" />
+<p>
+  ChatGPT • Claude AI • Groq API • Lovable • Manus AI
 </p>
-<img src="https://tenor.com/view/coding-girl-gif-2332171326726785246" width="300"/>
-- ChatGPT
-- Claude AI
-- Groq API
-- Lovable
-  ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyaramavath13-hash&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyaramavath13-hash&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
-## 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=kavyaramavath13-hash&theme=tokyonight"/>
 </p>
