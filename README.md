@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="github banner.gif" width="100%" alt="GitHub Banner">
 </p>
@@ -13,7 +14,7 @@
 <img src="https://img.shields.io/github/followers/kavyaramavath13-hash?style=for-the-badge"/>
 </p>
  
- ##👩‍💻 About Me
+ ## 👩‍💻 ABOUT ME
 
 ```java
 class Lily {
@@ -41,9 +42,9 @@ class Lily {
 ```
   <img align="right" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="400">
 </p>
-##💻 Tech Stack
 
-👨‍💻 Languages
+## 💻 Tech Stack
+ **Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,dart,kotlin" />
@@ -79,14 +80,33 @@ class Lily {
   ChatGPT • Claude AI • Groq API • Lovable • Manus AI
 </p>
 
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyaramavath13-hash&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=kavyaramavath13-hash&theme=tokyonight"/>
 </p>
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kavya-sri-7a2a21351/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Sihyunlily" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:kavyaramavath13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/kavyaramavath13-hash" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+<div align="center">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663874018653/pOHsYbQmaHBGTeVP.gif" alt="Footer Banner" width="100%" />
+    
+
+  <b>Thanks for stopping by! Let's build something amazing together. 🚀</b>
+</div>
+
